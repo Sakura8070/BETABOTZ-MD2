@@ -13,11 +13,11 @@
 // Betabotz = digunakan hampir di semua fitur kecuali linkshort
 // Botcahx  = digunakan untuk linkshort saja
 
-global.owner = ['6285842647866']  
+global.owner = ['237656774511']  
 global.mods = ['6285842647866'] 
 global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866' 
+global.nameowner = '🌹🌹🌹'
+global.numberowner = '237656774511' 
 global.mail = 'fxacbapi.my.id@gmail.com' 
 global.dana = '6281395861695'
 global.pulsa = '6281395861695'
